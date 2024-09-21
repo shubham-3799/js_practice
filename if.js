@@ -7,7 +7,7 @@ Day 1: Introduction to JavaScript
 Topics: History, what is JavaScript, where it is used.
 Tasks: Set up the development environment (install Node.js, choose an IDE like VSCode).
 
-Day 2: Hello World and Basic Syntax
+Day 2: Hello World and Basic Syntaxd
 Topics: Writing your first script, console.log, comments, variables.
 Tasks: Write a "Hello, World!" program, experiment with different data types.+.. 
 

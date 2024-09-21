@@ -143,14 +143,14 @@ console.log(`a=${a}b=${b}`);*/
         /*function stri(str,old,newpart){
             return str.replace(old,newpart);
 
-        }
+        }.
         console.log(stri("hello world","world","ram"));*/
-
+77
         /*let str="hello world";
-        console.log(str.includes("gogo"));*/
+        console.log(str.includes("go"));*/
 
         /*let str1="hello";
-        let str2="world";
+        let str2="world";-***********************************n 
         console.log(str1.concat ( str2 ));*/
 
        /* let a="shubham";
